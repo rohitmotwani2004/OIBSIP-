@@ -56,7 +56,7 @@ How to Run
 
 1. Clone this repository:
 
-git clone https://github.com/rohitmotwani2004/your-repository.git
+git clone https://github.com/rohitmotwani2004/OIBSIP.git
 cd your-repository
 
 
